@@ -39,7 +39,7 @@ Simplified Remesh-style application built with Node.js, React, and PostgreSQL in
 
 ## Environment Variables
 
-Copy [server/.env.example](/Users/pranavsaji/Downloads/Projects/Remesh-take-home/server/.env.example) to `server/.env` and set your database URL:
+Copy [server/.env.example] to `server/.env` and set your database URL:
 
 ```bash
 cp server/.env.example server/.env
